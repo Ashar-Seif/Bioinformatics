@@ -110,6 +110,8 @@ The output of this step is that we have 655 dissimilar regions between the conse
 
 ![](images/Aspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.009.png)
 
+*Fig. 3.b. The location of consensus sequence dissimilarity       regions.*
+
 ![](images/Aspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.010.png)
 
 *Fig. 3.c. Percentage of similarities and dissimilarities between the consensus sequence and the case sequences.*
@@ -119,7 +121,6 @@ The output of this step is that we have 655 dissimilar regions between the conse
 *Fig. 3.d. Number of similarities and dissimilarities between the consensus sequence and the case sequences.*
 
 
-*Fig. 3.b. The location of consensus sequence dissimilarity       regions.*
 ## Conclusion
 After observing the phylogenetic tree constructed by MEGA between the 20 sequences, we can tell that the distances between the sequences are very close. The CG content, which represents the stability of a sequences, is not high in COVID-19 sequences which led to the inevitable mutations causing invariants like Omicron. However, the contents values for both SARS types are very similar to each other. Also, according to the dissimilar regions which do not exceed high percentage of the virus sequence, we conclude that the omicron variant is very similar to COVID-19.
 
