@@ -1,6 +1,6 @@
 ﻿
 
-**Comparative study for SARS-Cov-2 (COVID-19) and its variant Omicron**
+# **Comparative study for SARS-Cov-2 (COVID-19) and its variant Omicron**
 
 Ashar Seif Al-Nasr1, a, Alaa-Allah Essam1, a, Aya Abdullah Farag1, a, and Walaa Salah1, a
 
@@ -84,15 +84,15 @@ The following analysis shows that the difference between the CG content values o
 
 ` `Omicron and Covid  consensus sequence  Average percentage contents  Comparison .
 
-![](imagesAspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.005.jpeg)
+![](images/Aspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.005.jpeg)
 
 
 
-![](imagesAspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.006.jpeg)
+![](images/Aspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.006.jpeg)
 
 *Fig. 2.a Average consensus and Omicron contents.*
 
-![](imagesAspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.007.jpeg)
+![](images/Aspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.007.jpeg)
 
 
 
@@ -103,7 +103,7 @@ The following analysis shows that the difference between the CG content values o
 ## *C. Dissimilar Regions:*
 The output of this step is that we have 655 dissimilar regions between the consensus sequence and the case sequences with average 2.19%.
 
-![](Aspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.008.png)
+![](images/Aspose.Words.e3e507b6-fcfc-4f93-8e44-c530125c5386.008.png)
 
 
 *Fig. 3.a.* *The dissimilarity regions indices*
@@ -120,6 +120,6 @@ The output of this step is that we have 655 dissimilar regions between the conse
 
 
 *Fig. 3.b. The location of consensus sequence dissimilarity       regions.*
-1. # Conclusion
+## Conclusion
 After observing the phylogenetic tree constructed by MEGA between the 20 sequences, we can tell that the distances between the sequences are very close. The CG content, which represents the stability of a sequences, is not high in COVID-19 sequences which led to the inevitable mutations causing invariants like Omicron. However, the contents values for both SARS types are very similar to each other. Also, according to the dissimilar regions which do not exceed high percentage of the virus sequence, we conclude that the omicron variant is very similar to COVID-19.
 
